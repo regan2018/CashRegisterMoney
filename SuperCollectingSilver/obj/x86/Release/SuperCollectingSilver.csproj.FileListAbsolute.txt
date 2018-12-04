@@ -1,0 +1,5 @@
+D:\C#Project\SuperCollectingSilver-master\SuperCollectingSilver\bin\x86\Release\SuperCollectingSilver.exe.config
+D:\C#Project\SuperCollectingSilver-master\SuperCollectingSilver\obj\x86\Release\SuperCollectingSilver.MainForm.resources
+D:\C#Project\SuperCollectingSilver-master\SuperCollectingSilver\obj\x86\Release\SuperCollectingSilver.Properties.Resources.resources
+D:\C#Project\SuperCollectingSilver-master\SuperCollectingSilver\obj\x86\Release\SuperCollectingSilver.SecondScreenShowForm.resources
+D:\C#Project\SuperCollectingSilver-master\SuperCollectingSilver\obj\x86\Release\SuperCollectingSilver.csproj.GenerateResource.Cache

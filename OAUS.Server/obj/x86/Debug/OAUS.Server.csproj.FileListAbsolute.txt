@@ -1,0 +1,13 @@
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\bin\Debug\OAUS.Server.exe.config
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\bin\Debug\OAUS.Server.exe
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\bin\Debug\OAUS.Server.pdb
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\bin\Debug\OAUS.Core.dll
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\bin\Debug\OAUS.Core.pdb
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.csprojResolveAssemblyReference.cache
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.AddFileVersionForm.resources
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.FileVersionForm.resources
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.MainForm.resources
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.Properties.Resources.resources
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.csproj.GenerateResource.Cache
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.exe
+D:\C_Project\CashRegisterMoney\.net40\OAUS.Server\obj\x86\Debug\OAUS.Server.pdb
