@@ -152,3 +152,6 @@ D:\C_Project\NewRepo\SuperCollectingSilver\obj\x86\Debug\SuperCollectingSilver.c
 D:\C_Project\NewRepo\SuperCollectingSilver\obj\x86\Debug\恒馨收银系统.TrustInfo.xml
 D:\C_Project\NewRepo\SuperCollectingSilver\obj\x86\Debug\恒馨收银系统.exe.manifest
 D:\C_Project\NewRepo\SuperCollectingSilver\obj\x86\Debug\恒馨收银系统.application
+D:\C_Project\CashRegisterMoney\SuperCollectingSilver\bin\x86\Debug\恒馨收银系统.exe.config
+D:\C_Project\CashRegisterMoney\SuperCollectingSilver\obj\x86\Debug\恒馨收银系统.exe
+D:\C_Project\CashRegisterMoney\SuperCollectingSilver\obj\x86\Debug\恒馨收银系统.pdb
