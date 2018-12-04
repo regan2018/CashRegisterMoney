@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/SuperCollectingSilver/bin/x86/Debug/恒馨收银系统.vshost.exe.manifest
+/SuperCollectingSilver/bin/x86/Debug/恒馨收银系统.vshost.exe.config
+/SuperCollectingSilver/bin/x86/Debug/恒馨收银系统.vshost.exe
+/SuperCollectingSilver/bin/x86/Debug/恒馨收银系统.vshost.application
+/SuperCollectingSilver/bin/x86/Debug/app.publish/恒馨收银系统.exe
+/SuperCollectingSilver/bin/x86/Debug/BrowserCache
+/SuperCollectingSilver/bin/x86/Debug/LogData
+/SuperCollectingSilver/bin/x86/Debug/UpdateConfiguration.xml
